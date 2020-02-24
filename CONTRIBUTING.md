@@ -1,4 +1,4 @@
-# Contributing
+## Contributing
 
 ## License
 Intel Project for LLVM* technology is licensed under the terms of the
