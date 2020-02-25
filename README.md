@@ -18,6 +18,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 *Other names and brands may be claimed as the property of others.
 
-## SYCL Extension Proposal Documents
+### SYCL Extension Proposal Documents
 
 See [sycl/doc/extensions](sycl/doc/extensions)
